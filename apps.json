@@ -1,0 +1,40 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "whoeevee",
+      "downloadURL": "https://files.catbox.moe/hkhn6h.ipa",
+      "iconURL": "https://files.catbox.moe/bu79o5.png",
+      "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening and provides some additional features like custom lyrics.\n\nThese features are server sided and won't work:\n• Very High audio quality\n• Native playlist downloading\n• Jam\n• AI DJ/Playlist\n\nTo open Spotify links, use OpenSpotifySafariExtension. Remember to activate it and allow access in Settings > Safari > Extensions.",
+      "name": "EeveeSpotify",
+      "screenshotURLs": [
+        "https://files.catbox.moe/5cf2qa.jpg",
+        "https://files.catbox.moe/4swbj7.jpg",
+        "https://files.catbox.moe/y38b8c.jpg",
+        "https://files.catbox.moe/2pkc97.jpg"
+      ],
+      "size": 83466649.6,
+      "subtitle": "A tweak to get Spotify Premium for free",
+      "tintColor": "60d71e",
+      "version": "8.9.96/5.8.2",
+      "versionDate": "2024-12-06",
+      "versionDescription": "Updated German localization"
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Enes's Library",
+  "news": [
+    {
+      "appID": "",
+      "caption": "Here I'll have some popular tweaked apps that are up to date, tested and high-quality. I'll try my best to update these apps at least once a month.",
+      "date": "2024-12-11",
+      "identifier": "",
+      "imageURL": "",
+      "notify": false,
+      "tintColor": "007afe",
+      "title": "Welcome to my library!"
+    }
+  ],
+  "userInfo": {}
+}
