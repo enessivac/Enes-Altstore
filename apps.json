@@ -1,0 +1,29 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "whoeevee",
+      "downloadURL": "https://files.catbox.moe/hkhn6h.ipa",
+      "iconURL": "https://files.catbox.moe/bu79o5.png",
+      "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening and provides some additional features like custom lyrics.\n\nRestrictions:\nThese features are server sided, and will never work.\n• Very High audio quality\n• Native playlist downloading\n• Jam\n• AI DJ/Playlist\n\nLyrics Support:\nEeveeSpotify replaces Spotify monthly limited lyrics with one of the following three lyrics providers.\n• Genius: Offers the best quality lyrics, provides the most songs, and updates lyrics the fastest. Isn't time-synced.\n• LRCLIB: The most open service, offering time-synced lyrics. However, it lacks lyrics for many songs.\n• Musixmatch: The service Spotify uses. Provides time-synced lyrics for many songs, but you'll need a user token to use this source. To obtain the token, download Musixmatch from the App Store, sign up, then go to Settings > Get help > Copy debug info, and paste it into the EeveeSpotify popup box.\n• PetitLyrics: Offers plenty of time-synced Japanese and some international lyrics.\n\nTo open Spotify links in sideloaded app, use OpenSpotifySafariExtension. Remember to activate it and allow access in Settings > Safari > Extensions.",
+      "name": "Spotify",
+      "screenshotURLs": [
+        "https://files.catbox.moe/5cf2qa.jpg",
+        "https://files.catbox.moe/4swbj7.jpg",
+        "https://files.catbox.moe/y38b8c.jpg",
+        "https://files.catbox.moe/2pkc97.jpg"
+      ],
+      "size": 83466649.6,
+      "subtitle": "A tweak to get Spotify Premium for free",
+      "tintColor": "60d71e",
+      "version": "5.8.2",
+      "versionDate": "2024-12-06",
+      "versionDescription": "Updated German localization"
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Enes's Library",
+  "news": [],
+  "userInfo": {}
+}
