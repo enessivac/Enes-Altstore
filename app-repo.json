@@ -1,7 +1,6 @@
 {
   "apps": [
     {
-      "beta": false,
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "imaycon",
       "downloadURL": "https://files.catbox.moe/i8cwgi.ipa",
@@ -18,10 +17,8 @@
       "tintColor": "89e219",
       "version": "7.29.0",
       "versionDate": "2024-09-13",
-      "versionDescription": " "
     },
     {
-      "beta": false,
       "bundleIdentifier": "com.spotify.client",
       "developerName": "whoeevee",
       "downloadURL": "https://files.catbox.moe/hkhn6h.ipa",
@@ -41,9 +38,6 @@
       "versionDescription": "Updated German localization"
     }
   ],
-  "identifier": "com.example.source",
   "name": "Enes's Library",
   "iconURL": "https://github.com/enessivac/Enes-Altstore/blob/main/icon-repo.jpg?raw=true",
-  "news": [],
-  "userInfo": {}
 }
