@@ -1,4 +1,7 @@
 {
+  "name": "Enes's Library",
+  "iconURL": "https://github.com/enessivac/Enes-Altstore/blob/main/icon-repo.jpg?raw=true"
+  ],
   "apps": [
     {
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
@@ -37,7 +40,5 @@
       "versionDate": "2024-12-06",
       "versionDescription": "Updated German localization"
     }
-  ],
-  "name": "Enes's Library",
-  "iconURL": "https://github.com/enessivac/Enes-Altstore/blob/main/icon-repo.jpg?raw=true",
+  ]
 }
