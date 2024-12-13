@@ -24,7 +24,7 @@
       "beta": false,
       "bundleIdentifier": "com.spotify.client",
       "developerName": "whoeevee",
-      "downloadURL": "https://sign.printedwaste.com/install?uuid=AIbvS8",
+      "downloadURL": "https://files.catbox.moe/hkhn6h.ipa",
       "iconURL": "https://files.catbox.moe/bu79o5.png",
       "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening and provides some additional features like custom lyrics.\n\nThese features are server sided and won't work:\n• Very High audio quality\n• Native playlist downloading\n• Jam\n• AI DJ/Playlist\n\nTo open Spotify links, use OpenSpotifySafariExtension. Remember to activate it and allow access in Settings > Safari > Extensions.\n\nSource: https://github.com/whoeevee/EeveeSpotify",
       "name": "EeveeSpotify",
