@@ -2,6 +2,26 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Fouad Raheb",
+      "downloadURL": "https://files.catbox.moe/ygttzm.ipa",
+      "iconURL": "https://files.catbox.moe/d9zkni.jpg",
+      "localizedDescription": "Built-into Instagram\n• Runs inside Instagram, so no need to install a separate app or service. It also uses Instagram private API for Analytics and other features.\n\nProfile Analyzer\n• Scans your Instagram profile to provide in-depth analysis, including who unfollowed you, who doesn't follow you back, and any changes to their profiles (picture, username, full name, privacy, and verification).\n\nMedia Downloader\n• Downloads any Instagram media, including posts, stories, reels, post audio, and direct messages.\n\nPrivacy\n• View stories and read direct messages without sending seen receipts, Send them manually with a single tap.\n\nMessages\n• Keep unsent messages, stop sending typing and screenshot notifications, download audio messages, save vanish media messages, confirm call buttons, and more.\n\nUtilities & Customization\n• Confirm clicking like and follow buttons, copy captions, comments and bios, format stories, posts and last active dates to a more detailed date format.\n\nCracked by @Blatant and @Choco\nSource: https://t.me/blatants",
+      "name": "Instagram Regram",
+      "screenshotURLs": [
+        "https://files.catbox.moe/7hitlm.jpg",
+        "https://files.catbox.moe/78lktn.jpg",
+        "https://files.catbox.moe/zdfwdb.jpg"
+      ],
+      "size": 177104486.4,
+      "subtitle": "Boost your Instagram with many privacy, analytics, and customization features.",
+      "tintColor": "d72c61",
+      "version": "360.1.0/B15",
+      "versionDate": "2024-12-12",
+      "versionDescription": "Updated instagram to v360.1.0"
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "imaycon",
       "downloadURL": "https://files.catbox.moe/i8cwgi.ipa",
@@ -18,7 +38,7 @@
       "tintColor": "89e219",
       "version": "7.29.0",
       "versionDate": "2024-09-13",
-      "versionDescription": " "
+      "versionDescription": ""
     },
     {
       "beta": false,
@@ -41,9 +61,9 @@
       "versionDescription": "Updated German localization"
     }
   ],
+  "iconURL": "https://github.com/enessivac/Enes-Altstore/blob/main/icon-repo.jpg?raw=true",
   "identifier": "com.example.source",
   "name": "Enes's Library",
-  "iconURL": "https://github.com/enessivac/Enes-Altstore/blob/main/icon-repo.jpg?raw=true",
   "news": [],
   "userInfo": {}
 }
